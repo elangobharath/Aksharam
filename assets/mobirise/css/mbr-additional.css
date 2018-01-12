@@ -96,6 +96,9 @@
 #msg-box3-m .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#form1-n .mbr-header__text {
+  color: #efefef;
+}
 
 #ext_menu-2 .mbr-brand__name {
   font-size: 16px;

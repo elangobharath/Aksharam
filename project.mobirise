@@ -271,7 +271,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/oct.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-4160-2000x1333-800x534.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -335,14 +335,14 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/oct.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-4160-2000x1333-800x534.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -396,7 +396,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1.1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -421,7 +421,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/class.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -508,8 +508,8 @@
             "bgColorRadio": false,
             "bgColor": "#efefef",
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
           },
           "title": "CONTACT FORM",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
@@ -544,7 +544,12 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-n"
+          "_anchor": "form1-n",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#efefef"
+            }
+          }
         }
       ]
     },
