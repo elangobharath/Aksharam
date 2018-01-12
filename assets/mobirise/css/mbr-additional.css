@@ -1,4 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
 #dropdown-menu-7 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -78,6 +82,13 @@
   color: #ffffff;
   text-align: right;
   font-size: 48px;
+  font-family: 'Oswald', sans-serif;
+}
+#slider-l SPAN {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#slider-l P {
+  text-align: right;
 }
 #msg-box3-m .mbr-header .mbr-header__text {
   text-align: center;
