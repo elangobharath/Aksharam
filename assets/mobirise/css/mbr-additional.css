@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+#dropdown-menu-7 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-7 .nav .link,
+#dropdown-menu-7 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-7 .navbar,
+#dropdown-menu-7 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-7 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-7 .dropdown-menu a:hover,
+#dropdown-menu-7 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-7 .navbar-toggler {
+  color: #ffffff;
+}
+#header2-9 H1 {
+  color: #ffffff;
+}
+#content5-c .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 22px;
+}
+#content5-c .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-c .mbr-article {
+  color: #fff;
+}
+#content5-c .mbr-article P {
+  text-align: right;
+  color: #999595;
+}
+#msg-box4-e .mbr-header__text {
+  color: #464242;
+}
+#msg-box4-e .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-e .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-e .mbr-article P {
+  color: #706868;
+}
+#msg-box4-j .mbr-header__text {
+  color: #464242;
+}
+#msg-box4-j .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-j .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-j .mbr-article P {
+  color: #706868;
+}
+#msg-box4-k .mbr-header__text {
+  color: #464242;
+}
+#msg-box4-k .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-k .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-k .mbr-article P {
+  color: #706868;
+}
+#slider-l H1 {
+  color: #ffffff;
+  text-align: right;
+  font-size: 48px;
+}
+#msg-box3-m .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-m .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+
+#ext_menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #b6aa7d;
+}
+#ext_menu-2 .mbr-navbar__hamburger {
+  color: #b6aa7d;
+}
+#ext_menu-2 .mbr-brand__name a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
