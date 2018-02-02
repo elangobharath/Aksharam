@@ -1,28 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
-#dropdown-menu-7 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-7 .nav .link,
-#dropdown-menu-7 .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
-}
-#dropdown-menu-7 .navbar,
-#dropdown-menu-7 .dropdown-menu {
-  background: #333333;
-}
-#dropdown-menu-7 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-7 .dropdown-menu a:hover,
-#dropdown-menu-7 .dropdown-menu a:focus {
-  background: #292929;
-}
-#dropdown-menu-7 .navbar-toggler {
-  color: #ffffff;
-}
+
 #header2-9 H1 {
   color: #ffffff;
 }
@@ -98,6 +80,19 @@
 }
 #form1-n .mbr-header__text {
   color: #efefef;
+}
+#menu-v .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-v.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-v .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-v .mbr-brand__name a {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 16px;
 }
 
 #ext_menu-2 .mbr-brand__name {
