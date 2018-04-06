@@ -1954,6 +1954,18 @@ body {
 .cid-qMm8MpvuIv .dropdown-item:hover {
   color: #ffffff;
 }
+.cid-qOpUpfPSiw {
+  background: #ffffff;
+}
+.cid-qOpUpfPSiw .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qOpUpfPSiw .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qMm9lAY8DV {
   padding-top: 60px;
   padding-bottom: 60px;
