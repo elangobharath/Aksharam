@@ -4911,10 +4911,35 @@ body {
     text-align: center;
   }
 }
+.cid-qQ0KfzLYkx {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/dsc-0024-2-2000x1330.jpg");
+}
+.cid-qQ0KfzLYkx .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-qQ0KfzLYkx .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qQ0KfzLYkx .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qQ0KfzLYkx .mbr-text {
+    text-align: center;
+  }
+}
 .cid-qPxXnRek2N {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/dscn0898-2000x1500.jpg");
+  background-image: url("../../../assets/images/dscn0898-1-2000x1500.jpg");
 }
 .cid-qPxXnRek2N .media-container-column .btn-bgr {
   z-index: 0;
@@ -5040,7 +5065,7 @@ body {
   margin: 0 1rem 0.5rem;
 }
 .cid-qPm7osRASt {
-  background-image: url("../../../assets/images/6-960x639.jpg");
+  background-image: url("../../../assets/images/dsc-0028-2-2000x1330.jpg");
 }
 .cid-qPm7osRASt H1 {
   text-align: right;
